@@ -1,4 +1,50 @@
-# H1
+The following ISMS covers the execution of a cybersecurity laboratory course for the Application hacking course ICI012AS3AE-3001 from Haaga-Helia UAS. 
+# Scope
+- **Location:** Haaga-Helia premises & home office
+- **network infrastructure:** Consumption use of school public network managed by Haaga-Helia IT & consumption and management of home private network by the author using a router and Wi-Fi  
+- **Devices used for course exercises:** Lenovo thinkpad, Xiaomi notebook, virtual machines & iPhone 16 pro
+- **Operating systems**: Kali linux, Windows & iOS
+- **Information:** Course materials, exercise data, source code, Github repositories, open source tools, online documentation.
+# Out of scope
+- **Workplace laptop**: The device is managed by a private legal entity, contains private client data and runs on ARM architecture. Due to these reasons, the device will be isolated from the laboratory activities.  
+- **ISP provider**: Underlying physical infrastructure owned by a private entity which is outside of our control
+- **Cloud provider**: Underlying physical infrastructure owned by a private entity which is outside of our control
+- **School network**: Network management owned by Haaga-Helia IT department
+# Interfaces
+- **Cloud services**: Configuration and usage of GitHub, Microsoft OneDrive, Google drive, study LMS
+- **Remote access**: Management of SSH and RDP connections 
+- **Suppliers:** DNA Oyj, Elisa Oyj, Upcloud, Google Cloud, Apple, Xiaomi, Microsoft
+## Evidence
+- Author Github account: https://github.com/peckpeck20/
+- Author student number: A1602411
+- Lenovo Thinkpad serial number: S18371N1
+- Xiaomi notebook serial number: 98YN6X2B9
+- iPhone 16 pro serial number: A398NJSD6NX1S
+- Haaga-Helia network name: HHWlan
+- Home network provider: DNA Oyj
+## Standards
 
-H1.MD - ISMS report
-ISMS Diagram 
+## Author
+| Need                                                        | ISO 27001 requirement                                                                                                                                                                        | Evidence                                                                                                                                                                                                  |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Data retention                                              | 8.13 Information backup <br><br>*Backup copies of information, software and systems shall be maintained and regularly tested in accordance with the agreed topic-specific policy on backup.* | Git commit history - On the beginning of each exercise, create a remote Git repository and push changes constantly.<br><br>OS/VM snapshot - if the environment breaks we can easily restore functionality |
+| Secure disposal of dangerous tools or data after the course | 8.10 Information deletion<br><br>*Information stored in information systems, devices or in any other storage media shall be deleted when no longer required.*                                | Screenshot of VM deletion<br><br>Full format of HDD of lab device                                                                                                                                         |
+# Workplace
+
+| Need                                         | ISO 27001 requirement                                                                                                                                                                                                                                                                                      | Evidence                                                                                                                           |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Lab activities do not compromise work assets | 8.31 Separation of development, test and production environments <br><br>*Development, testing and production environments shall be separated and<br>secured.*<br><br>8.1 User end point devices<br><br>*Information stored on, processed by or accessible via user end point devices shall be protected.* | Use isolated separate physical device running on a separated network - Show the dedicated device unique ID/IP and network logs<br> |
+| Protect work devices from malware            | 8.7 Protection against malware<br><br>*Protection against malware shall be implemented and supported by appropriate user awareness.*                                                                                                                                                                       | Screenshot of isolated network configuration & historical logs of connected clients<br>                                            |
+| Access work systems securely in home network | 7.6 Working in secure areas<br><br>*Security measures for working in secure areas shall be designed and implemented*                                                                                                                                                                                       | Use VPN when connecting to home network - screenshot of VPN client and network logs                                                |
+
+## Educational institution
+
+| Need                                    | ISO 27001 requirement                                                                                                                                  | Evidence                                                                                      |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| No harmful activity on the network      | 8.22 Segregation of networks<br><br>*Groups of information services, users and information systems shall be segregated in the organization's networks* | Set lab device network to Host-only or NAT. Provide screenshot of lab device network settings |
+| Proof of actions taken during exercises | 8.15 Logging<br><br>*Logs that record activities, exceptions, faults and other relevant events shall*                                                  | After each exercise export terminal command history logs with timestamps                      |
+
+
+## ISMB Diagram
+
+[ISMB_Diagram_Zapata_Jose.pdf](ISMB_Diagram_Zapata_Jose.pdf)

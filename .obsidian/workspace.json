@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9dd7b8a801964d",
+        "id": "cccd232bf32f5a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6997405d6b9e525",
+            "id": "6e1bbf7a7d06c567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "h1/readme.md",
+                "file": "h3/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
-            "id": "b82449bc32bc2565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "h2/readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
+              "title": "main"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e0e9d78a8c8ce8f",
@@ -180,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of readme"
             }
+          },
+          {
+            "id": "7ca6c08b6f2f1637",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,23 +190,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b82449bc32bc2565",
+  "active": "6e1bbf7a7d06c567",
   "lastOpenFiles": [
+    "h3/challenges/passtr/passtr.c",
+    "h3/challenges/passtr/passtr",
+    "h3/challenges/passtr/README.md",
+    "h3/challenges/passtr/Makefile",
+    "h3/challenges/packd/packd",
+    "h3/challenges/packd/README.md",
+    "h3/challenges/passtr",
+    "h3/challenges/packd",
+    "h3/challenges",
+    "Untitled.base",
+    "h1/readme.md",
+    "h3/main.md",
+    "h2/readme.md",
     "h2/dirfuzt-1",
     "h2/jose-zapata.com/_next/image?url=%2Fcat-icon.png&w=48&q=75",
     "h2/jose-zapata.com/_next/image?url=%2Fcat-icon.png&w=32&q=75",
-    "h2/jose-zapata.com/_next/static/u-aergS6WcVjK2-LTl61y/_ssgManifest.js",
-    "h2/jose-zapata.com/_next/static/u-aergS6WcVjK2-LTl61y/_buildManifest.js",
-    "h2/jose-zapata.com/_next/static/u-aergS6WcVjK2-LTl61y",
-    "h2/jose-zapata.com/_next/static/chunks/pages/index-d6d02fb3e670e6c1.js",
-    "h2/jose-zapata.com/_next/static/chunks/pages/_app-2ba67b4e2e44dba9.js",
-    "h2/jose-zapata.com/_next/static/chunks/pages",
-    "h2/jose-zapata.com/_next/static/chunks/main-b3694e56a82ca065.js",
-    "h2/jose-zapata.com/_next/static/chunks/framework-142bc663a62a6fa3.js",
-    "h2/jose-zapata.com/cat-icon.png",
-    "h2/readme.md"
+    "h2/jose-zapata.com/cat-icon.png"
   ]
 }

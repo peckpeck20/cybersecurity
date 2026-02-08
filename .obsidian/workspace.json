@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f1d74abb5fef099",
+        "id": "09961e2c977bd35a",
         "type": "tabs",
         "children": [
           {
-            "id": "92595068bfa8da4a",
+            "id": "2106aa62532ff05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,63 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "8a72b81123a6111e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "h4/images/Pasted image 20260208173626.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260208173626"
-            }
-          },
-          {
-            "id": "ae501a5844bf57ff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "h4/images/2.png"
-              },
-              "icon": "lucide-image",
-              "title": "2"
-            }
           }
         ]
-      },
-      {
-        "id": "1e9983652b9a7826",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "11e000dc3f4df93d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "h4/images/Pasted image 20260208160052.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260208160052"
-            }
-          },
-          {
-            "id": "6e1bbf7a7d06c567",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "h4/images/1.png"
-              },
-              "icon": "lucide-image",
-              "title": "1"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 223.5
   },
   "right": {
     "id": "7e0e9d78a8c8ce8f",
@@ -250,34 +195,37 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "92595068bfa8da4a",
+  "active": "2106aa62532ff05d",
   "lastOpenFiles": [
-    "h4/images/1.png",
+    "Pasted image 20260208200419.png",
+    "Pasted image 20260208200205.png",
+    "Pasted image 20260208195808.png",
+    "ghidra/h4.rep/idata/00/~00000001.db/changeB.grf",
+    "ghidra/h4.rep/idata/00/~00000001.db/snapshotB.grf",
+    "h4/images/Pasted image 20260208195630.png",
+    "h4/challenges/passtr/passtr_patched",
+    "h4/draft.md",
     "h4/index.md",
+    "ghidra/h4.rep/user/~journal.bak",
+    "ghidra/h4.rep/user/~index.bak",
+    "ghidra/h4.rep/idata/~index.tmp",
+    "ghidra/h4.rep/idata/00/~00000001.db/changeA.grf",
+    "ghidra/h4.rep/idata/00/~00000001.db/snapshotA.grf",
+    "ghidra/h4.rep/idata/00/~00000001.db/tmp3652384282684922318.ps",
+    "ghidra/h4.rep/idata/00/00000001.prp",
+    "h4/images/1.png",
     "h4/images/Pasted image 20260208173626.png",
     "h4/images/2.png",
-    "h4/draft.md",
     "h4/images/Pasted image 20260208160052.png",
     "h4/images/Pasted image 20260208173752.png",
-    "h4/images",
     "h4/images/Pasted image 20260208173719.png",
-    "ghidra/h4.rep/idata/~journal.bak",
-    "ghidra/h4.rep/idata/~index.bak",
-    "ghidra/h4.rep/idata/00/~00000000.db/changeA.grf",
-    "ghidra/h4.rep/idata/00/~00000000.db/snapshotA.grf",
     "h4/images/Pasted image 20260208160155.png",
-    "ghidra/h4.rep/idata/00/~00000000.db/tmp16897011949502243537.ps",
-    "ghidra/h4.rep/idata/00/~00000000.db/db.1.gbf",
-    "ghidra/h4.rep/idata/00/~00000000.db",
-    "ghidra/h4.rep/idata/00/00000000.prp",
-    "ghidra/h4.rep/idata/00",
     "h4/challenges/passtr/README.md",
     "h4/challenges/packd/README.md",
     "h3/main.md",
     "h3/challenges/passtr/README.md",
     "h3/challenges/packd/README.md",
     "h1/readme.md",
-    "h2/readme.md",
-    "h2/jose-zapata.com/cat-icon.png"
+    "h2/readme.md"
   ]
 }

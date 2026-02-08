@@ -58,7 +58,7 @@ for common use cases.
 
 <pre>
     analyzeHeadless <a href="#project_location">&lt;project_location&gt;</a> &lt;<a href="#project_namefolder_path">project_name&gt;[/&lt;folder_path&gt;]</a> | <a href="#ghidraserverportrepository_namefolder_path">ghidra://&lt;server&gt;[:&lt;port&gt;]/&lt;repository_name&gt;[/&lt;folder_path&gt;]</a>
-        [[<a href="#-import-directoryfile">-import [&lt;directory&gt;|&lt;file&gt;]+</a>] | [<a href="#-process-project_file">-process [&lt;project_file&gt;]]</a>]
+        [](<a%20href="#-import-directoryfile">-import%20[&lt;directory&gt;|&lt;file&gt;]+</a>]%20|%20[<a%20href="#-import-directoryfile">-import%20[&lt;directory&gt;|&lt;file&gt;]+</a>]%20|%20[<a%20href="#-process-project_file">-process%20[&lt;project_file&gt;)</a>]
         [<a href="#-prescript-scriptnameext-arg">-preScript &lt;ScriptName&gt;&nbsp;[&lt;arg&gt;]*</a>]
         [<a href="#-postscript-scriptnameext-arg">-postScript &lt;ScriptName&gt;&nbsp[&lt;arg&gt;]*</a>]
         [<a href="#-scriptpath-path1path2">-scriptPath &quot;&lt;path1&gt;[;&lt;path2&gt;...]&quot;</a>]

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "h3/main.md",
+                "file": "h4/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "index"
+            }
+          },
+          {
+            "id": "d47d9eb23c99eaad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e0e9d78a8c8ce8f",
@@ -180,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,22 +212,32 @@
   },
   "active": "6e1bbf7a7d06c567",
   "lastOpenFiles": [
-    "h3/challenges/passtr/passtr.c",
-    "h3/challenges/passtr/passtr",
-    "h3/challenges/passtr/README.md",
-    "h3/challenges/passtr/Makefile",
-    "h3/challenges/packd/packd",
-    "h3/challenges/packd/README.md",
-    "h3/challenges/passtr",
-    "h3/challenges/packd",
-    "h3/challenges",
-    "Untitled.base",
-    "h1/readme.md",
+    "draft.md",
+    "h4/index.md",
+    "Pasted image 20260208173752.png",
+    "Pasted image 20260208173719.png",
+    "Pasted image 20260208173626.png",
+    "Pasted image 20260208173256.png",
+    "ghidra/h4.rep/idata/~journal.bak",
+    "ghidra/h4.rep/idata/~index.bak",
+    "Pasted image 20260208160800.png",
+    "ghidra/h4.rep/idata/00/~00000000.db/changeA.grf",
+    "ghidra/h4.rep/idata/00/~00000000.db/snapshotA.grf",
+    "Pasted image 20260208160155.png",
+    "ghidra/h4.rep/idata/00/~00000000.db/tmp16897011949502243537.ps",
+    "ghidra/h4.rep/idata/00/~00000000.db/db.1.gbf",
+    "ghidra/h4.rep/idata/00/~00000000.db",
+    "ghidra/h4.rep/idata/00/00000000.prp",
+    "ghidra/h4.rep/idata/00",
+    "ghidra/h4.rep/idata/~journal.dat",
+    "Pasted image 20260208160052.png",
+    "h4/challenges/passtr/README.md",
+    "h4/challenges/packd/README.md",
     "h3/main.md",
+    "h3/challenges/passtr/README.md",
+    "h3/challenges/packd/README.md",
+    "h1/readme.md",
     "h2/readme.md",
-    "h2/dirfuzt-1",
-    "h2/jose-zapata.com/_next/image?url=%2Fcat-icon.png&w=48&q=75",
-    "h2/jose-zapata.com/_next/image?url=%2Fcat-icon.png&w=32&q=75",
     "h2/jose-zapata.com/cat-icon.png"
   ]
 }

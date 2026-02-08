@@ -23,10 +23,10 @@ Enter executable directory & run
 Copy executable input string `What's the password`
 
 Open and view executable in code editor - the input string can be seen and parts of the password as well. A link to the UPX executable packer is available.
-![Pasted image 20260208173256](Pasted%20image%2020260208173256.png)
+![Pasted image 20260208173256](images/2.png)
 Unpack the executable
 
-![Pasted image 20260208173626](Pasted%20image%2020260208173626.png)
+![Pasted image 20260208173626](images/Pasted%20image%2020260208173626.png)
 
 Open unpacked executable in IDE
 ![Pasted image 20260208173719](Pasted%20image%2020260208173719.png)

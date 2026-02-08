@@ -20,6 +20,30 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "8a72b81123a6111e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "h4/images/Pasted image 20260208173626.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260208173626"
+            }
+          },
+          {
+            "id": "ae501a5844bf57ff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "h4/images/2.png"
+              },
+              "icon": "lucide-image",
+              "title": "2"
+            }
           }
         ]
       },
@@ -226,17 +250,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4784638ad7b446e5",
+  "active": "92595068bfa8da4a",
   "lastOpenFiles": [
-    "h4/images/1.png",
+    "h4/images/Pasted image 20260208173626.png",
     "h4/index.md",
+    "h4/images/2.png",
+    "h4/images/1.png",
     "h4/draft.md",
     "h4/images/Pasted image 20260208160052.png",
     "h4/images/Pasted image 20260208173752.png",
     "h4/images",
     "h4/images/Pasted image 20260208173719.png",
-    "h4/images/Pasted image 20260208173626.png",
-    "h4/images/Pasted image 20260208173256.png",
     "ghidra/h4.rep/idata/~journal.bak",
     "ghidra/h4.rep/idata/~index.bak",
     "ghidra/h4.rep/idata/00/~00000000.db/changeA.grf",

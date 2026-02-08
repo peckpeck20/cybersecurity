@@ -29,7 +29,7 @@ Unpack the executable
 ![Pasted image 20260208173626](images/Pasted%20image%2020260208173626.png)
 
 Open unpacked executable in IDE
-![Pasted image 20260208173719](Pasted%20image%2020260208173719.png)
+![Pasted image 20260208173719](images/Pasted%20image%2020260208173719.png)
 
 Password and flag found
 ```

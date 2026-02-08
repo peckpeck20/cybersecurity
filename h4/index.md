@@ -18,7 +18,8 @@ Enter executable directory & run
 ```
 ./packd
 ```
-![Pasted image 20260208160800](Pasted%20image%2020260208160800.png)
+![](images/1.png)
+
 Copy executable input string `What's the password`
 
 Open and view executable in code editor - the input string can be seen and parts of the password as well. A link to the UPX executable packer is available.

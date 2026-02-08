@@ -63,9 +63,9 @@ select and run analysis
 The main function can be observed
 ![Pasted image 20260208195630](images/Pasted%20image%2020260208195630.png)
 Hack: Patch instruction in Ghidra by changing the conditional IF statement to return a false value when the correct password is inputted. By changing the assembly entry to from `JNZ`->  `JZ`
-![Pasted image 20260208195808](../Pasted%20image%2020260208195808.png)
+![Pasted image 20260208195808](Pasted%20image%2020260208195808.png)
 Save patched executable by going to File -> Export program
-![Pasted image 20260208200205](../Pasted%20image%2020260208200205.png)
+![Pasted image 20260208200205](Pasted%20image%2020260208200205.png)
 
 Test setup
 ```
@@ -76,4 +76,26 @@ sudo chmod +x passtr_patched
 ```
 
 Result
-![Pasted image 20260208200419](../Pasted%20image%2020260208200419.png)
+![Pasted image 20260208200419](Pasted%20image%2020260208200419.png)
+
+## D - Nora CrackMe
+Get repository
+```
+git clone https://github.com/NoraCodes/crackmes.git
+```
+## E1 - Nora crackme01
+
+Run exe
+```
+└─$ make crackme01  
+make crackme01.64
+make[1]: Entering directory '/home/user/Documents/cybersecurity/h4/crackmes'
+gcc -O1 -fno-stack-protector -lcrypt -m64 crackme01.c -o crackme01.64
+objcopy -g crackme01.64
+make[1]: Leaving directory '/home/user/Documents/cybersecurity/h4/crackmes'
+```
+
+WIP
+## E2 - Nora crackme01e
+
+WIP

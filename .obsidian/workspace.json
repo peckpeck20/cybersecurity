@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "h4/index.md",
+                "file": "h7/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,6 +198,8 @@
   },
   "active": "0438ff050cd30d37",
   "lastOpenFiles": [
+    "h4/draft.md",
+    "h4/index.md",
     "ghidra/h4.rep/user/00/00000001.prp",
     "ghidra/h4.rep/user/00/~00000001.db/db.1.gbf",
     "ghidra/h4.rep/user/00/~00000001.db",
@@ -208,14 +210,11 @@
     "h4/crackmes/crackme09.c",
     "h4/crackmes/crackme08e.c",
     "h4/crackmes/crackme08.c",
-    "h4/crackmes/crackme07e.c",
     "h4/crackmes/README.md",
     "h4/images/Pasted image 20260208195808.png",
-    "h4/index.md",
     "h4/images/Pasted image 20260208200419.png",
     "h4/images/Pasted image 20260208200205.png",
     "h4/images/Pasted image 20260208195630.png",
-    "h4/draft.md",
     "h4/images/1.png",
     "h4/images/Pasted image 20260208173626.png",
     "h4/images/2.png",
